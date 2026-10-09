@@ -1,0 +1,24 @@
+{
+  "101": {
+    "profile": {"name": "Abhay", "roll_no": "CS101", "department": "Computer Science", "semester": 5},
+    "courses": ["Data Science", "Machine Learning", "DBMS"],
+    "attendance": {"Data Science": 68, "Machine Learning": 82, "DBMS": 76},
+    "marks": {"Data Science": 54, "Machine Learning": 71, "DBMS": 63},
+    "exam_schedule": [
+      {"course": "Data Science", "date": "2026-11-10"},
+      {"course": "Machine Learning", "date": "2026-11-13"},
+      {"course": "DBMS", "date": "2026-11-16"}
+    ]
+  },
+  "202": {
+    "profile": {"name": "Riya", "roll_no": "CS202", "department": "Computer Science", "semester": 5},
+    "courses": ["Data Science", "Machine Learning", "Computer Networks"],
+    "attendance": {"Data Science": 91, "Machine Learning": 88, "Computer Networks": 72},
+    "marks": {"Data Science": 80, "Machine Learning": 77, "Computer Networks": 49},
+    "exam_schedule": [
+      {"course": "Data Science", "date": "2026-11-10"},
+      {"course": "Machine Learning", "date": "2026-11-13"},
+      {"course": "Computer Networks", "date": "2026-11-18"}
+    ]
+  }
+}
