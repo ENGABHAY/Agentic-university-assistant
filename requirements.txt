@@ -1,0 +1,23 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pyjwt
+bcrypt
+python-dotenv
+streamlit
+requests
+langchain
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-text-splitters
+pypdf
+chromadb
+langgraph
+mcp<2
+pytest
+# Phase 7: playwright
+cryptography
+playwright

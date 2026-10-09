@@ -1,0 +1,5 @@
+{
+  "login_url": "https://erp.mgmu.ac.in/login.htm",
+  "browser_channel": "msedge",
+  "_optional": "home_url, captcha_image_selector, captcha_input_selector"
+}
